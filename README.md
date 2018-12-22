@@ -46,7 +46,7 @@ You should now see our circle logo instead of the full logo. Congratulations! Yo
 
 ## Summary
 
-Some HTML tags have extra information or instructions embedded in them, which we call attributes. We use the src attribute in an img tag to point the browswer to the location of an image we want to display.
+Some HTML tags have extra information or instructions embedded in them, which we call attributes. We use the src attribute in an img tag to point the browser to the location of an image we want to display.
 
 ## Key Terms to Review
 
